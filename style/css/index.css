@@ -1,0 +1,49 @@
+﻿/* line 1, ../sass/index.scss */
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* line 8, ../sass/index.scss */
+img {
+  width: 100%;
+  display: block;
+}
+
+/* line 12, ../sass/index.scss */
+.main {
+  width: 100%;
+}
+
+/* line 15, ../sass/index.scss */
+.btn {
+  width: 85%;
+  position: absolute;
+  margin-top: -26%;
+  left: 7%;
+  background-repeat: no-repeat;
+  background-image: url("./images/bg.png");
+  background-size: 100%;
+}
+
+/* line 24, ../sass/index.scss */
+.rule-bg {
+  width: 100%;
+  height: 50%;
+  background-image: url("../images/bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+/* line 31, ../sass/index.scss */
+.rule {
+  margin: 10% auto;
+}
+
+/* line 34, ../sass/index.scss */
+.foot {
+  margin: 10% auto 0;
+  width: 50%;
+}
